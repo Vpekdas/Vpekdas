@@ -1,13 +1,11 @@
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/Vpekdas/Vpekdas/assets/135771100/ea323f9b-1ee0-4621-b1e2-f4206d5424d3)
+
 <h1 align="center">H3ll0 👋, I'm 🤿 Volkan🌋</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpekdas&label=Profile%20views&color=0e75b6&style=flat" alt="vpekdas" /> </p>
-
-- 🔭 I’m currently working on **common core projects (42)**
+- 🔭 I’m currently working on **common core projects (42)** <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - 🌱 I’m currently learning **C programming**
-
 - ⚡ Fun fact **I'm always smiling :)**
 
 <h3 align="left">Languages and Tools:</h3>
