@@ -6,9 +6,11 @@
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vopekdas?1337Badge=off&UM6P=off" alt="vopekdas's 42 stats" /></a>
 </div>
+
 - 🔭 I’m currently working on **common core projects (42)** <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - 🌱 I’m currently learning **C programming** <img align="center" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif">
+
 - ⚡ Fun fact **Love cats and programming <img align="center" alt="Coding" width="51" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">**
 
 <h3 align="left">Languages and Tools:</h3>
