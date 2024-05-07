@@ -6,7 +6,7 @@
   
 ![Gradient Line](https://github.com/Vpekdas/Vpekdas/assets/135771100/3bf234a5-7c55-40b9-af23-b624db3f762f "Gradient Line")
 
-- 🔭 I’m currently working on **projects in  C programming language (42 common core)**
+- 🔭 I’m currently working on **projects in  C**
   <img align="center" alt="Coding" width="400" src=https://github.com/Vpekdas/Vpekdas/assets/135771100/d2148aad-6fc4-4567-b3a6-dbf97383fd29 title="Pacman">
 
 - ⚡ Fun fact **Love cats and programming**
