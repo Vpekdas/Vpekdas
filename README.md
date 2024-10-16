@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1403191/screenshots/6247545/2gif.gif"  />
+<img align="right" width="150" src="https://cdn.dribbble.com/users/1403191/screenshots/6247545/2gif.gif"  />
 
 ###
 
