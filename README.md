@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">⚔️ My Primary Skills</p>
+## ⚔️ My Primary Skills
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔮 My Secondary Skills</p>
+## 🔮 My Secondary Skills
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🧰 My Equipment</p>
+## 🧰 My Equipment
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🌐 Connect with Me</p>
+### 🌐 Connect with Me
 
 ###
 
