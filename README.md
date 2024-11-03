@@ -1,7 +1,7 @@
 ![4v5m8oidfrf11](https://github.com/user-attachments/assets/54699d76-47ba-40ad-8420-69d9e369874b)
 
 
-<h2 align="left">Hello, World! 👾 I'm Volkan 🌋 - Aspiring Game Developer 🎮</h2>
+<h2 align="center">Hello, World! 👾 I'm Volkan 🌋 - Aspiring Game Developer 🎮</h2>
 
 ###
 
