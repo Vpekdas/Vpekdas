@@ -1,75 +1,35 @@
 ![4v5m8oidfrf11](https://github.com/user-attachments/assets/54699d76-47ba-40ad-8420-69d9e369874b)
 
-
-<h2 align="center">Hello, World! 👾 I'm Volkan 🌋 - Aspiring Game Developer 🎮</h2>
-
-###
+<h2 align="center">Hello, I'm Volkan 🌋 - Junior Game Developer 🎮</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpekdas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20My%20Quest%20Log" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vpekdas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&custom_title=%E2%9C%A8%20My%20Programming%20Spells" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpekdas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vpekdas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="languages graph"  />
 </div>
 
-###
-
-## ⚔️ My Primary Skills
-
-###
+## 💻 LANGUAGES
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
 </div>
 
-###
-
-## 🔮 My Secondary Skills
-
-###
+## 🧰 TOOLS
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" width="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
 </div>
 
-###
-
-## 🧰 My Equipment
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-
-###
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/892a5c4ea33cf2a3197e2bc8a3f3789c7d2099e52a2cae2ab6377bf0bbd50e59/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313430333139312f73637265656e73686f74732f363234373534352f326769662e676966"  />
-
-###
-
-### 🌐 Connect with Me
-
-###
+## 🌐 SOCIALS
 
 <div align="left">
   <a href="https://discordapp.com/users/415118435174055947/" target="_blank">
@@ -80,16 +40,9 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/vpekdas/vpekdas/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/vpekdas/count.svg?"  />
 </div>
 
-###
