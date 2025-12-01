@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vpekdas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="languages graph"  />
 </div>
 
-## 💻 LANGUAGES
+## LANGUAGES
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
@@ -15,20 +15,35 @@
   <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" width="40" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua logo"  />
 </div>
 
-## 🧰 TOOLS
+## FRAMEWORKS AND LIBRARIES
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwindcss logo"  />
+</div>
+
+## GAME ENGINES
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="40" alt="unity logo"  />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" width="40" alt="blender logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" width="40" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="40" width="40" alt="unrealengine logo"  />
 </div>
 
-## 🌐 SOCIALS
+## TOOLS
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" width="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
+</div>
+
+## SOCIALS
 
 <div align="left">
   <a href="https://discordapp.com/users/415118435174055947/" target="_blank">
